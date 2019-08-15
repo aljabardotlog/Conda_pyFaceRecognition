@@ -1,4 +1,7 @@
 # Conda_pyFaceRecognition
+
+Reference http://bit.ly/2YU11RF
+
 Install pipenv by
 	$pip install pipenv
 
